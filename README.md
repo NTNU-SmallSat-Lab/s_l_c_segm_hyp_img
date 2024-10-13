@@ -21,7 +21,7 @@ Outline:
 ## Instructions
 
 ### Software-Codes
-* *Justoetal_models_public_released.py* : It primarily comprises the model architectures (16 models), implemented with Keras and sklearn. We encourage the community to train the models on other datasets.
+* *Justoetal_models_public_released.py* : It primarily comprises the model architectures (16 models), implemented with Keras and sklearn. We encourage the community to train the models on other datasets. Apple's FastViTs are found [HERE](https://github.com/apple/ml-fastvit).
 
 
 * *Interactive_Python_Notebook.ipynb* : It consists of a Python notebook demonstrating how to run inference, by 1D-CNNs and 2D-CNNs, on HYPSO-1 data. In this notebook, an existing trained model file is employed for inference. The code is explained with comments. 
