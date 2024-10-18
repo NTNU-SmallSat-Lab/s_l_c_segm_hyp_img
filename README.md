@@ -31,7 +31,7 @@ Outline:
 ### Remaining-material
 
 
-**<big>[IMPORTANT!]: Click [HERE to access and download the remaining supplementary material](https://studntnu-my.sharepoint.com/:f:/g/personal/jonalv_ntnu_no/EsVNCjnbbIxLvm-TS67iA30BefEvoOo20GO8i5Ux9-Dp9Q?e=fkeJe7).</big>**
+**<big>[IMPORTANT!]: Click [HERE to access and download the remaining supplementary material](https://studntnu-my.sharepoint.com/:f:/g/personal/jonalv_ntnu_no/EsVNCjnbbIxLvm-TS67iA30BefEvoOo20GO8i5Ux9-Dp9Q?e=jmvS6S).</big>**
 
 In this supplementary material, we include: 
 * *1-EXPERIMENT RESULT FIGURES* (directory) : It includes all the experiment figures for the test set for L1b radiance and raw data, across different channel configurations. The experimental evaluation involves a set of performance metrics including average accuracy, overall accuracy, F1 score, mean absolute error, false alarm ratios, as well as both individual and average Spearman's rank correlation coefficients. Additionally, we provide the number of model parameters and inference time in our evaluations. Finally, in order to assess the models' ability to generalize effectively, we expand their testing to include inference on an additional deployment set consisting of 30 distinct, unlabeled hyperspectral images - further details on this deployment set are given below. 
